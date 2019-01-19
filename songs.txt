@@ -7,7 +7,7 @@
         "albumId": null,
         "duration": 213756,
         "uri": "https:\/\/naasongsdownload.club\/2018%20Telugu%20Songs\/NTR%20Biopic\/Kathaa%20Naayaka-Naasongs.me.mp3",
-        "albumArt": "https:\/\/www.greatandhra.com\/newphotos7\/ntr_maha11538651186.jpg",
+        "albumArt": "\/storage\/emulated\/0\/Android\/data\/com.android.providers.media\/albumthumbs\/1546576434102",
         "isFav": 0,
         "timestamp": 0,
         "count": null
@@ -20,7 +20,7 @@
         "albumId": null,
         "duration": 213756,
         "uri": "https:\/\/naasongsdownload.club\/2018%20Telugu%20Songs\/NTR%20Biopic\/Kathaa%20Naayaka-Naasongs.me.mp3",
-        "albumArt": "https:\/\/www.greatandhra.com\/newphotos7\/ntr_maha11538651186.jpg",
+        "albumArt": "\/storage\/emulated\/0\/Android\/data\/com.android.providers.media\/albumthumbs\/1546576434102",
         "isFav": 0,
         "timestamp": 0,
         "count": null
@@ -33,7 +33,7 @@
         "albumId": null,
         "duration": 213756,
         "uri": "https:\/\/naasongsdownload.club\/2018%20Telugu%20Songs\/NTR%20Biopic\/Kathaa%20Naayaka-Naasongs.me.mp3",
-        "albumArt": "https:\/\/www.greatandhra.com\/newphotos7\/ntr_maha11538651186.jpg",
+        "albumArt": "\/storage\/emulated\/0\/Android\/data\/com.android.providers.media\/albumthumbs\/1546576434102",
         "isFav": 0,
         "timestamp": 0,
         "count": null
