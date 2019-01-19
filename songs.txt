@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "artist": "Artist1",
+        "title": "title1",
+        "album": "album1",
+        "albumId": null,
+        "duration": 213756,
+        "uri": "http:\/\/SongURL.com\/a1.mp3",
+        "albumArt": "http:\/\/ImageURL.com\/a1.mp3",
+        "isFav": 0,
+        "timestamp": 0,
+        "count": null
+    },
+    {
+        "id": 2,
+        "artist": "Artist2",
+        "title": "title2",
+        "album": "album2",
+        "albumId": null,
+        "duration": 213756,
+        "uri": "http:\/\/SongURL.com\/a2.mp3",
+        "albumArt": "http:\/\/ImageURL.com\/a2.mp3",
+        "isFav": 0,
+        "timestamp": 0,
+        "count": null
+    },
+    {
+        "id": 3,
+        "artist": "Artist3",
+        "title": "title3",
+        "album": "album3",
+        "albumId": null,
+        "duration": 213756,
+        "uri": "http:\/\/SongURL.com\/a3.mp3",
+        "albumArt": "http:\/\/ImageURL.com\/a3.mp3",
+        "isFav": 0,
+        "timestamp": 0,
+        "count": null
+    }
+]
