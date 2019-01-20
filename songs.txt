@@ -3725,7 +3725,7 @@
     "albumId": 69,
     "duration": 200000,
     "uri": "https:\/\/naasongsdownload.club\/2018%20Telugu%20Songs\/2%20Friends%20%282018%29\/Vidyarthulam%20--%20Naasongs.Me.mp3",
-    "albumArt": null,
+    "albumArt": "https:\/\/naasongs.me\/wp-content\/uploads\/2018\/03\/NTR-Biopic.jpg",
     "isFav": 0,
     "timestamp": 0,
     "count": null
