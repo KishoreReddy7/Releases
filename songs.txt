@@ -7,7 +7,7 @@
     "albumId": 1,
     "duration": 218000,
     "uri": "https:\/\/naasongsdownload.club\/2018%20Telugu%20Songs\/NTR%20Biopic\/Kathaa%20Naayaka-Naasongs.me.mp3",
-    "albumArt": null,
+    "albumArt": "https:\/\/naasongs.me\/wp-content\/uploads\/2018\/03\/NTR-Biopic.jpg",
     "isFav": 0,
     "timestamp": 0,
     "count": null
