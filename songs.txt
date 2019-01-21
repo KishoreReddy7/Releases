@@ -28572,57 +28572,5 @@
     "isFav": 0,
     "timestamp": 0,
     "count": null
-},
-{
-    "id": 5001,
-    "artist": "Anuraag Kulkarni",
-    "title": "Round And Round Song &#8211;",
-    "album": "Aatadukundam Raa",
-    "albumId": 500,
-    "duration": 173000,
-    "uri": "https:\/\/naasongsdownload.com\/Telugu\/2016-Naasongs.Audio\/File-2\/Aatadukundam%20Raa%20(2016)%20-Naasongs.Audio\/01%20-%20Round%20And%20Round%20-Naasongs.Audio.mp3",
-    "albumArt": null,
-    "isFav": 0,
-    "timestamp": 0,
-    "count": null
-},
-{
-    "id": 5002,
-    "artist": "Anandi Joshi",
-    "title": "Joomega Song &#8211;",
-    "album": "Aatadukundam Raa",
-    "albumId": 500,
-    "duration": 168000,
-    "uri": "https:\/\/naasongsdownload.com\/Telugu\/2016-Naasongs.Audio\/File-2\/Aatadukundam%20Raa%20(2016)%20-Naasongs.Audio\/02%20-%20Joomega%20-Naasongs.Audio.mp3",
-    "albumArt": null,
-    "isFav": 0,
-    "timestamp": 0,
-    "count": null
-},
-{
-    "id": 5003,
-    "artist": "Sahithi Chaganti",
-    "title": "Aatadukundam Raa Song &#8211;",
-    "album": "Aatadukundam Raa",
-    "albumId": 500,
-    "duration": 157000,
-    "uri": "https:\/\/naasongsdownload.com\/Telugu\/2016-Naasongs.Audio\/File-2\/Aatadukundam%20Raa%20(2016)%20-Naasongs.Audio\/03%20-%20Aatadukundam%20Raa%20-Naasongs.Audio.mp3",
-    "albumArt": null,
-    "isFav": 0,
-    "timestamp": 0,
-    "count": null
-},
-{
-    "id": 5004,
-    "artist": "Anup Rubens",
-    "title": "Theme (Time Machine) Song &#8211;",
-    "album": "Aatadukundam Raa",
-    "albumId": 500,
-    "duration": 56000,
-    "uri": "https:\/\/naasongsdownload.com\/Telugu\/2016-Naasongs.Audio\/File-2\/Aatadukundam%20Raa%20(2016)%20-Naasongs.Audio\/04%20-%20Theme%20(Time%20Machine)%20-Naasongs.Audio.mp3",
-    "albumArt": null,
-    "isFav": 0,
-    "timestamp": 0,
-    "count": null
 }
 ]
