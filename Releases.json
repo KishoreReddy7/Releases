@@ -1,0 +1,16 @@
+[
+	{
+		"AppName":"2048",
+		"Version":"1.1.001",
+		"Link":"",
+		"Message":"Up To Date",
+		"Button":"Update"
+	},
+	{
+		"AppName":"SRMusic",
+		"Version":"1.0",
+		"Link":"https://www.google.com",
+		"Message":"New Version is available",
+		"Button":"Update"
+	}
+]
