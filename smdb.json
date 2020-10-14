@@ -1,5 +1,5 @@
 {
-  "sanjureddyMovieDBHost": "http://fynix.atwebpages.com",
+  "sanjureddyMovieDBHost": "https://fynix.000webhostapp.com",
   "theMovieDBHostV3": "https://api.themoviedb.org/3",
   "theMovieDBHostV4": "https://api.themoviedb.org/4",
   "sanjureddyMovieDBApiKey": "abcd1234",
