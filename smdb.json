@@ -1,5 +1,5 @@
 {
-  "sanjureddyMovieDBHost": "https://tiny-fox-16.loca.lt",
+  "sanjureddyMovieDBHost": "http://fynix.sanjureddy.ml",
   "theMovieDBHostV3": "https://api.themoviedb.org/3",
   "theMovieDBHostV4": "https://api.themoviedb.org/4",
   "sanjureddyMovieDBApiKey": "abcd1234",
