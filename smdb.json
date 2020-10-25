@@ -2,7 +2,7 @@
   "sanjureddyMovieDBHost": "https://fynixserver.ml",
   "sanjureddyMovieDBCDN": "https://res.cloudinary.com/dh9swpehw/image/upload",
   "sanjureddyMovieDBApiKey": "97275f532ed12c3300db784e69f39db7",
-  "fynixVersion": "1.0.1",
+  "fynixVersion": "1.0.2",
   "underMaintenance": false,
   "message": "Server is under maintenance. Will be back in about 10 mins.",
   "sanjureddyMovieDBHostFinal": "http://fynix.infinityfreeapp.com"
