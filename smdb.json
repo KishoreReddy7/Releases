@@ -2,7 +2,7 @@
   "sanjureddyMovieDBHost": "https://fynixserver.ml",
   "sanjureddyMovieDBHostFinal": "http://fynix.infinityfreeapp.com",
   "sanjureddyMovieDBCDN": "https://res.cloudinary.com/dh9swpehw/image/upload",
-  "sanjureddyMovieDBCDNFinal": "https://res.cloudinary.com/fynix/image/upload",
+  "sanjureddyMovieDBCDNFinal": "https://res.cloudinary.com/fynix",
   "sanjureddyMovieDBApiKey": "97275f532ed12c3300db784e69f39db7",
   "fynixVersion": "1.0.3",
   "underMaintenance": false,
@@ -11,5 +11,9 @@
   "fynixWebsite": "http://fynix.in",
   "feedbackEmail": "SanjuReddy@Techie.com",
   "reportBugsEmail": "SanjuReddy@Techie.com",
-  "myEmail": "SanjuReddy@Techie.com"
+  "myEmail": "SanjuReddy@Techie.com",
+  "winnerAnnounced": true,
+  "winnerName": "Sanju Reddy",
+  "winnerEmail": "KisXXXXXXXXXXX10@gmail.com",
+  "winnerInsta": 'sanju__reddy_7'
 }
