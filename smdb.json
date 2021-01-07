@@ -4,7 +4,7 @@
   "sanjureddyMovieDBCDN": "https://res.cloudinary.com/dh9swpehw/image/upload",
   "sanjureddyMovieDBCDNFinal": "https://res.cloudinary.com/fynix",
   "sanjureddyMovieDBApiKey": "97275f532ed12c3300db784e69f39db7",
-  "fynixVersion": "1.0.4",
+  "fynixVersion": "1.0.5",
   "underMaintenance": false,
   "message": "Server is under maintenance. Will be back in about 5 mins.",
   "myWebsite": "http://sanjureddy.in",
