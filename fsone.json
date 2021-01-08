@@ -1,7 +1,7 @@
 {
   "appId": "ca-app-pub-2349813341755285~5672289033",
   "showInterstitialAd": "true",
-  "showBannerAd": "true",
+  "showBannerAd": "false",
   "interstitialAdId": "ca-app-pub-2349813341755285/3088974835",
   "interstitialAdIdFrequency": "3",
   "bannerAdId": "ca-app-pub-2349813341755285/2345920567"
